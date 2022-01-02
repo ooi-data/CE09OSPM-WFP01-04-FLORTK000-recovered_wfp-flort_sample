@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-04-FLORTK000-recovered_wfp-flort_sample
 data_stream: CE09OSPM-WFP01-04-FLORTK000-recovered_wfp-flort_sample
 end_date: '2021-09-13T15:11:55.000Z'
-last_updated: '2021-12-22T04:36:34.818656'
+last_updated: '2022-01-02T06:41:39.270347Z'
 start_date: '2014-04-19T01:02:36.000Z'
-status: success
+status: pending
