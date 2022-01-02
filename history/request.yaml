@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSPM-WFP01-04-FLORTK000-recovered_wfp-flort_sample
 last_request: '2022-01-01T02:25:34.783048Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-04-FLORTK000-recovered_wfp-flort_sample/main/history/response.json
-status: pending
+status: success
